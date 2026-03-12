@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Query Workbench
-nav_order: 125
+title: Exploring data with Workbench
+nav_order: 30
 redirect_from:
   - /search-plugins/sql/workbench/
 ---

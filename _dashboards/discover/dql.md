@@ -1,13 +1,15 @@
 ---
 layout: default
-title: Dashboards Query Language (DQL)
-nav_order: 125
+title: Dashboards Query Language
+parent: Exploring data with Discover
+nav_order: 50
 redirect_from:
-  - /dashboards/dql/
-  - /dashboards/discover/dql/
+  - /dashboards/dql
 ---
 
 # Dashboards Query Language (DQL)
+
+todo: move to main Dashboards TOC
 
 Dashboards Query Language (DQL) is a simple text-based query language used to filter data in OpenSearch Dashboards. 
 

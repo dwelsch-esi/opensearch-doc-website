@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Component templates
-parent: Index Management
+parent: Managing indexes in Dashboards
 nav_order: 50
 ---
 

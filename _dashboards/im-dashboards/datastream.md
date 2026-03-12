@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Data streams
-parent: Index Management
+parent: Managing indexes in Dashboards
 nav_order: 20
 redirect_from:
   - /dashboards/admin-ui-index/datastream/
@@ -88,28 +88,48 @@ To perform a force merge operation on two or more indexes, perform the following
 
 1. Under **Configure source index**, specify the data streams you want to force merge.
 
-1. Optionally, under **Advanced settings** you can to choose to **Flush indices** or **Only expunge delete** and then specify the **Max number of segments** to merge to as shown in the following image.
+1. Optionally, under **Advanced settings** you can to choose to **Flush indexes** or **Only expunge delete** and then specify the **Max number of segments** to merge to as shown in the following image.
 
     ![Force Merge]({{site.url}}{{site.baseurl}}/images/admin-ui-index/forcemerge2.png)
 
 ## Refreshing a data stream
 
-Refreshing a data stream makes new updates to the index visible to search operations. 
+Refreshing a data stream makes new updates to the index visible to search operations.
 
 The refresh operation can be applied only to open indexes associated with the specified data streams.
+{: .note}
 
-To refresh a data stream, select the data stream from the **Data streams** list under **Index Management**. Then select **Refresh** from the **Actions** dropdown list. 
+To refresh a data stream:
+
+1. Go to **Index Management** > **Data streams**.
+
+1. Select the data stream from the **Data streams** list.
+
+1. Select **Refresh** from the **Actions** dropdown list.
 
 ## Flushing a data stream
 
-The flush operation performs a Lucene commit, writing segments to disk and starting a new translog. 
+The flush operation performs a [Lucene commit](https://lucenenet.apache.org/docs/2.9.4/html/9e5b5681-859f-8190-2a3c-2a0b364f95d8.htm), writing segments to disk and starting a new translog.
 
-The flush operation can be applied only to open indexes associated with the specified data streams. 
+The flush operation can be applied only to open indexes.
 
-To flush a data stream, select the data stream from the **Data streams** list under **Index Management**. Then select **Flush** from the **Actions** dropdown list. 
+The flush operation can be applied only to open indexes associated with the specified data streams.
+
+To flush a data stream:
+
+1. Go to **Index Management** > **Data streams**.
+
+1. Select the data stream from the **Data streams** list.
+
+1. Select **Flush** from the **Actions** dropdown list.
 
 ## Clearing a data stream cache
 
-The [clear cache operation]({{site.url}}{{site.baseurl}}/api-reference/index-apis/clear-index-cache/) can be applied only to open indexes associated with the specified data streams. 
+The [clear cache operation]({{site.url}}{{site.baseurl}}/api-reference/index-apis/clear-index-cache/) can be applied only to open indexes associated with the specified data streams.
+{: .note}
 
-To clear a data stream cache, select the index from the **Indices** list under **Index Management**. Then select **Clear cache** from the **Actions** dropdown list. 
+To clear a data stream cache:
+
+1. Select the data stream from the **Data streams** list under **Index Management**.
+
+1. Select **Clear cache** from the **Actions** dropdown list.

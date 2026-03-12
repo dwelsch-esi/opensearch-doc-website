@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Notification settings
-parent: Index Management
+parent: Managing indexes in Dashboards
 nav_order: 60
 ---
 
@@ -35,7 +35,7 @@ You can view default notification settings when you perform an indexing operatio
 
 1. Select **OpenSearch Plugins** > **Index Management**.
 
-1. In the **Index Management** interface, select **Indices**.
+1. In the **Index Management** interface, select **Indexes**.
 
 1. Select the index you want to reindex.
 

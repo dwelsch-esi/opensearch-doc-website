@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Creating dashboards
-nav_order: 30
+nav_order: 60
 has_children: false
 redirect_from:
   - /dashboards/dashboard/
@@ -18,7 +18,7 @@ This OpenSearch Playground [dashboard example](https://playground.opensearch.org
 
 ## Getting familiar with the UI
 
-Before getting started, let's get familiar with the **Dashboard** UI. The UI comprises the following main components:
+The **Dashboard** UI comprises the following main components:
 
 ![Dashboard user interface]({{site.url}}{{site.baseurl}}/images/dashboards/dashboard-UI.png)
 
