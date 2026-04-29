@@ -81,7 +81,7 @@ The **Panel settings** tab controls panel-wide display options such as the follo
 - Label values on charts
 
 
-## Legend colors
+## Visualization colors
 
 The legend shows the color key in charts where range, categorical, or text variables are represented by colors.
 
@@ -92,3 +92,18 @@ You can use the legend to change the colors of a graphical element. To change a 
 2. Choose a color from the palette that appears.
 
 <img src="{{site.url}}{{site.baseurl}}/images/dashboards/legend-colors.png" alt="Visualize legend" width="40%">
+
+
+1. Choose the {::nomarkdown}<img src="{{site.url}}{{site.baseurl}}/images/icons/gear-icon.png" class="inline-icon" alt="gear icon"/>{:/} (gear) icon on the visualization panel.
+
+1. From the **Options** drop-down, select **Edit visualization**.
+
+1. From the visualization legend, select a category.
+
+1. From the flyout, select a color.
+
+    The area chart updates with your change.
+
+1. From the **Visualize** toolbar, select **Save and return**.
+
+    This color change affects the saved visualization and any dashboard that links to the visualization.

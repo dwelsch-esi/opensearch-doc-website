@@ -106,4 +106,6 @@ Data types | Visualization types
 
 - Read more about different types of visualizations, their uses, and their technical details. See the [Visualizations reference]({{site.url}}{{site.baseurl}}/dashboards/visualize/viz-ref/).
 
+- Save your visualization. See [Saving a visualization]({{site.url}}{{site.baseurl}}/dashboards/visualize/saving-a-viz/).
+
 - Once you have some visualizations of your data, assemble them into a dashboard. See [Creating dashboards]({{site.url}}{{site.baseurl}}/dashboards/dashboard/).
