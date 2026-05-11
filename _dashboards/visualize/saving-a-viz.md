@@ -12,7 +12,7 @@ Your visualization remains in the Visualize application if you leave the applica
 
 ## Saving a new visualization
 
-To save a new visualization, do the following:
+To save a new visualization, follow these steps:
 
 1. Select **Save** in the upper right of the **Create** panel.
 
@@ -28,7 +28,7 @@ To save a new visualization, do the following:
 
 You can save a visualization at any time, as often as you like.
 
-To save an existing visualization:
+To save an existing visualization, follow these steps:
 
 1. Select **Save** in the upper right of the **Create** panel.
 

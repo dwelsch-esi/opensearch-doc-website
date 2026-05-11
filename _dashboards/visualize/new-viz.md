@@ -7,7 +7,7 @@ nav_order: 10
 
 # Creating a new visualization
 
-To create a new visualization of any type:
+To create a new visualization of any type, follow these steps:
 
 1. On the main page, select **Visualize** to bring up the **Visualize** application.
 

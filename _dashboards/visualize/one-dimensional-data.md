@@ -26,7 +26,7 @@ The visualization can show a single value or multiple bucketed values.
 
 Use the gauge visualization to monitor a key indicator against an acceptable range in a dashboard.
 
-To create a gauge visualization:
+To create a gauge visualization, follow these steps:
 
 1. Open a new visualization of type gauge. See [Creating a new visualization]({{site.url}}{{site.baseurl}}/dashboards/visualize/new-viz/).
 
@@ -95,7 +95,7 @@ The visualization can show a single value or multiple bucketed values. If bucket
 
 Use the goal visualization to monitor a key indicator against a goal value.
 
-To create a goal visualization:
+To create a goal visualization, follow these steps:
 
 1. Open a new visualization of type goal. See [Creating a new visualization]({{site.url}}{{site.baseurl}}/dashboards/visualize/new-viz/).
 
@@ -147,7 +147,7 @@ The visualization can show a single value or multiple bucketed values.
 
 Use the pie chart visualization to compare the relative share of each condition making up a metric.
 
-To create a pie chart visualization:
+To create a pie chart visualization, follow these steps:
 
 1. Open a new visualization of type Pie chart. See [Creating a new visualization]({{site.url}}{{site.baseurl}}/dashboards/visualize/new-viz/).
 
