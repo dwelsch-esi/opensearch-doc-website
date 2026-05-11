@@ -27,7 +27,7 @@ We present the bar chart as a typical example of a multi-dimensional display. Mo
 
 Use a vertical bar visualization to create a histogram or bar chart.
 
-To create a vertical bar visualization:
+To create a vertical bar visualization, follow these steps:
 
 1. Open a new visualization of type **Vertical Bar**. See [Creating a new visualization]({{site.url}}{{site.baseurl}}/dashboards/visualize/new-viz/).
 
@@ -96,7 +96,7 @@ An area chart is a line chart with the area below the line shaded with a color. 
 
 In this tutorial, you'll use the OpenSearch sample flight data to create a visualization of the top five logs for flights delayed for every three hours over the last seven days.
 
-To create the area chart:
+To create the area chart, follow these steps:
 
 1. Open a new visualization of type **Area**. See [Creating a new visualization]({{site.url}}{{site.baseurl}}/dashboards/visualize/new-viz/).
 
@@ -174,7 +174,7 @@ A heat map displays values represented as a color or saturation gradient on a tw
 
 In this tutorial, you'll use the OpenSearch sample flight data to create a visualization of flight delays for permutations of origin and destination weather descriptors.
 
-To create the area chart:
+To create a heat map, follow these steps:
 
 1. Open a new visualization of type **Heat Map**. See [Creating a new visualization]({{site.url}}{{site.baseurl}}/dashboards/visualize/new-viz/).
 
@@ -278,9 +278,9 @@ To create the area chart:
 
 A line graph shows one or more series of numerical data points on the Y axis plotted against a numerical field on the X axis. The points can be connected by a line. The X axis value can be a timeline or any other continuous or discrete number series.
 
-In this tutorial, 
+In this tutorial, you'll graph average ticket price against flight distance, plotting a separate line for every day of the week. 
 
-To create the area chart:
+To create the line graph, follow these steps:
 
 1. Open a new visualization of type **Line**. See [Creating a new visualization]({{site.url}}{{site.baseurl}}/dashboards/visualize/new-viz/).
 
@@ -352,8 +352,8 @@ To create the area chart:
 
 ## Related links
 
-- [Visualize]({{site.url}}{{site.baseurl}}/dashboards/visualize/viz-index/)
-- [Visualization types in OpenSearch Dashboards]({{site.url}}{{site.baseurl}}/dashboards/visualize/viz-index/)
+- [Building data visualizations]({{site.url}}{{site.baseurl}}/dashboards/visualize/viz-index/)
+- [Visualization types in OpenSearch Dashboards]({{site.url}}{{site.baseurl}}/dashboards/visualize/viz-index/#visualization-types)
 - [Install and configure OpenSearch Dashboards]({{site.url}}{{site.baseurl}}/install-and-configure/install-dashboards/index/)
 - [Aggregations]({{site.url}}{{site.baseurl}}/opensearch/aggregations/)
 

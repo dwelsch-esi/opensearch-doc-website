@@ -41,7 +41,7 @@ A typical **Metrics** tab is shown in the following image.
 
 <img src="{{site.url}}{{site.baseurl}}/images/dashboards/viz-tools-metrics.png" alt="Visualization tools Metrics and axes settings" width="78%">
 
-Like the **Data** tab, contents of the **Metrics and axes** (or **Options**) tab depends on the visualization type as well as the specifics of the data that you've selected. Options vary widely, but generally fall into the following categories. This is not an exhaustive list:
+Like the **Data** tab, contents of the **Metrics and axes** (or **Options**) tab depend on the visualization type as well as the specifics of the data that you've selected. Options vary widely, but generally fall into the following categories. This is not an exhaustive list:
 
 
 ### Metrics options
@@ -85,7 +85,7 @@ The **Panel settings** tab controls panel-wide display options such as the follo
 
 The legend shows the color key in charts where range, categorical, or text variables are represented by colors.
 
-You can use the legend to change the colors of a graphical element. To change a color do the following:
+You can use the legend to change the colors of a graphical element. To change a color, do the following:
 
 1. Select an entry in the legend.
 

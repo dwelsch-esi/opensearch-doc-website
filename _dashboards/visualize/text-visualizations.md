@@ -24,7 +24,7 @@ The  Metric visualization displays a single data field. The visualization can sh
 
 Use the metric visualization to display a key indicator in a dashboard, especially if it updates frequently.
 
-To create a metric visualization:
+To create a metric visualization, follow these steps:
 
 1. Open a new visualization of type metric. See [Creating a new visualization]({{site.url}}{{site.baseurl}}/dashboards/visualize/new-viz/).
 
@@ -65,7 +65,7 @@ Use tag clouds to provide a dramatic comparison of magnitudes of different text-
 
 You can think of a tag cloud as a kind of reverse display that maps bucketed values by displaying the values as the size of the bucket label rather than a graphed quantity such as the length of a bar.
 
-To build a tag cloud visualization, do the following:
+To build a tag cloud visualization, follow these steps:
 
 1. Open a new visualization of type tag cloud. See [Creating a new visualization]({{site.url}}{{site.baseurl}}/dashboards/visualize/new-viz/).
 
@@ -117,7 +117,7 @@ A data table displays selected fields in row-column form. You can display one or
 
 Use a table visualization to view and compare key values in text form.
 
-To create a table visualization:
+To create a table visualization, follow these steps:
 
 1. Open a new visualization of type data table. See [Creating a new visualization]({{site.url}}{{site.baseurl}}/dashboards/visualize/new-viz/).
 
@@ -134,7 +134,7 @@ To create a table visualization:
 
 1. In the **Aggregation** box, select the aggregation you want to display.
 
-For this tutorial, select `Average`.
+   For this tutorial, select `Average`.
 
 1. In the **Field** box, choose the field you want to display.
 
