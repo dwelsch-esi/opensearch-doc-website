@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Using the UI
+title: Using OpenSearch Dashboards
 nav_order: 15
 has_children: false
 ---
@@ -22,7 +22,7 @@ The following instructions are not comprehensive. There is often more than one w
 
 The following image shows the default landing page for OpenSearch Dashboards.
 
-<img src="{{site.url}}{{site.baseurl}}/images/dashboards/osd-homepage.png" alt="OpenSearch Dashboards UI"  width="100%">
+<img src="{{site.url}}{{site.baseurl}}/images/dashboards/osd-homepage.png" alt="OpenSearch Dashboards"  width="100%">
 
 - The _header bar_ (A) contains the following elements from left to right:
   - {::nomarkdown}<img src="{{site.url}}{{site.baseurl}}/images/icons/menu-icon.png" class="inline-icon" alt="menu icon"/>{:/} (menu) The menu icon.
@@ -86,7 +86,7 @@ OpenSearch Dashboards has many settings that control display, logging, search, a
 
 You can set these parameters by editing the `opensearch_dashboards.yml` file. See [Configuring OpenSearch Dashboards]({{site.url}}{{site.baseurl}}/install-and-configure/configuring-dashboards/).
 
-You can use the OpenSearch Dashboards UI to configure many of the same settings. 
+You can use OpenSearch Dashboards to configure many of the same settings.
 
 To configure a setting, do the following:
 
