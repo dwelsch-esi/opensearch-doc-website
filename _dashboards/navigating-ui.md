@@ -7,7 +7,6 @@ has_children: false
 
 # Using OpenSearch Dashboards
 
-This page describes how to use the OpenSearch Dashboards UI. 
 
 OpenSearch Dashboards is the web UI for [OpenSearch]({{site.url}}{{site.baseurl}}/getting-started/intro/). You can use OpenSearch Dashboards to perform most tasks you can do with the OpenSearch APIs. Among other things, you can use OpenSearch Dashboards to:
 
