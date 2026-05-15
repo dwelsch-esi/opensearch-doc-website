@@ -5,7 +5,7 @@ nav_order: 15
 has_children: false
 ---
 
-# Using the OpenSearch Dashboards UI
+# Using OpenSearch Dashboards
 
 This page describes how to use the OpenSearch Dashboards UI. 
 
