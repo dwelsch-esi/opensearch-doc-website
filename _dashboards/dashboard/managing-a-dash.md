@@ -65,6 +65,8 @@ To save an existing dashboartd:
 
 ## Exporting a dashboard
 
+This feature requires the [Reporting plugin]({{site.url}}{{site.baseurl}}/reporting/report-dashboard-index/).
+
 1. Select **Reporting** from the application menu.
 
 1. From the drop-down menu, select **Download PDF** or **Download PNG**.
